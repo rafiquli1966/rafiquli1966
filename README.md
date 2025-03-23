@@ -1,68 +1,54 @@
-# 🧑‍💼 Rafiqul Islam | IT Transformation Leader | CRM | DevOps | Automation
+# 👋 Hi, I'm Rafiqul Islam
 
-🇸🇬 Singapore | ✉️ rafiquli@hotmail.com | [LinkedIn](https://www.linkedin.com/in/islamrafiqul/)  
-🏆 PMP | SCRUM | ITIL | Six Sigma | MBA | Digital Supply Chain | Digital Marketing
-
----
-
-## 👋 About Me
-
-I'm aN  IT professional with 15+ years of experience driving digital transformation and enterprise IT modernization across APAC, EMEA, and global roles. I specialize in:
-
-- 🔧 **Scripting & Automation**: PowerShell, Shell, JSON, PowerApps, AgilePoint  
-- 🚀 **CI/CD & DevOps**: Azure DevOps, GitHub Actions, Jenkins, Bitbucket  
-- 🏗️ **CRM/ERP Platforms**: Salesforce, MS Dynamics, SAP, Magento, JD Edwards  
-- 🧪 **Test Automation & UAT Pipelines**  
-- 🌐 **Cloud & Data**: Azure, AWS, Redshift, Snowflake, Syniti, Qlik, Power BI  
-- 🔒 **Regulated Environments**: GxP, GDPR, ISO 27001, BCP, DR  
-
-I bridge strategy and execution by delivering stable, secure, and scalable systems while driving business value through automation, integration, and continuous delivery.
+🔹 **Senior IT Leader | SAP, CRM, DevOps & Digital Transformation Expert**  
+🔹 Over 20 years of experience delivering high-impact enterprise solutions across APAC, EMEA & global roles  
+🔹 Strong background in Business IT leadership, AI/ML initiatives, and integration of SAP, Salesforce, Dynamics, Power Platform & cloud-native tools
 
 ---
 
-## 🛠️ Featured Projects
+## 🧠 What I Do
 
-### 📦 PowerApps + JD Edwards SCM Integration  
-**Role**: IT Lead – Caldic  
-- Built a **demand-supply PowerApp** with backend scripting to sync with JD Edwards  
-- Integrated **AgilePoint workflows** for finance and supply approvals  
-- Designed **Azure DevOps pipelines** for CRM Dynamics deployments
-
-### 🔁 CI/CD in Salesforce + SAP with GitHub Actions  
-**Role**: IT Lead – Tate & Lyle  
-- Implemented full CI/CD for **Salesforce CPQ** and SAP enhancements  
-- Developed **ETL scripts** for Redshift + Azure integration  
-- Automated UAT + test cases in Azure DevOps to cut regression time
-
-### 🌐 eShop & WeChat Integration (Salesforce)  
-**Role**: IT Lead – Abbott  
-- Delivered eCommerce platform (Magento) with Salesforce integration  
-- Scripted **WeChat API connectors** into Salesforce for China HCP engagement  
-- Built commercial dashboards using Qlik + Salesforce
+- Drive **digital transformation** across supply chain, CRM, and manufacturing ecosystems
+- Lead **DevOps automation** using GitHub Actions, PowerShell, Azure DevOps & CI/CD pipelines
+- Architect **CRM modernization** (Salesforce, MS Dynamics) with deep integration to SAP
+- Build **PowerApps solutions** for supply-demand planning, shop floor ops & user-driven workflows
 
 ---
 
-## 📚 Certifications
+## 🛠️ Tech Toolbox
 
-- 🏅 PMP | Scrum Master | ITIL | Six Sigma  
-- 🎓 MBA – Operations Research | BE – Computer Engineering  
-- 🧠 Digital Supply Chain (NUS, 2023) | Digital Marketing (NUS, 2021)
-
----
-
-## 🔍 What I’m Looking For
-
-I'm currently focused on GOING INTO NEW TECH, with interest in:
-
-- Regional CRM/ERP transformation
-- Automation and DevOps strategy
-- Post-merger system integration
-- Managed services modernization
-- med/health care TECH
+**Languages & Scripting**: PowerShell · JavaScript · YAML · SQL · Markdown  
+**Platforms**: Azure DevOps · GitHub Actions · SAP S/4HANA · Salesforce · Power Platform  
+**CI/CD**: GitHub · Azure Pipelines · Bitbucket · Power Automate · Custom Deployment Scripts  
+**Other**: ServiceNow · Jira · Tableau · SAP CPI · Dynamics CRM
 
 ---
 
-## 📈 Stats & Contributions
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiqul-islam&show_icons=true&theme=default)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafiqul-islam&layout=compact)
+🔹 [powerapps-jde-supplychain](https://github.com/rafiquli1966/powerapps-jde-supplychain):  
+Custom PowerApps app integrated with JDE backend for supply-demand planning (Caldic APAC)
+
+🔹 [salesforce-sap-ci-cd-pipeline](https://github.com/rafiquli1966/salesforce-sap-ci-cd-pipeline):  
+CI/CD pipeline to deploy Salesforce changes with SAP backend validations and integrated approval gates
+
+🔹 [wechat-eshop-crm-integration](https://github.com/rafiquli1966/wechat-eshop-crm-integration):  
+Integrated WeChat e-shop front end with Dynamics CRM for customer acquisition and journey automation (Tate & Lyle China)
+
+---
+
+## 📈 GitHub Stats
+
+![Rafiqul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiquli1966&show_icons=true&theme=default)
+
+---
+
+## 🎓 Certs & Credentials
+
+- Salesforce Certified Administrator
+- Microsoft Power Platform Fundamentals
+- Azure DevOps & CI/CD Automation
+
+---
+
+📫 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/rafiqulislam1966/)
