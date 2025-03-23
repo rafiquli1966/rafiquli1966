@@ -1,54 +1,47 @@
 # 👋 Hi, I'm Rafiqul Islam
 
-🔹 **Senior IT Leader | SAP, CRM, DevOps & Digital Transformation Expert**  
-🔹 Over 20 years of experience delivering high-impact enterprise solutions across APAC, EMEA & global roles  
-🔹 Strong background in Business IT leadership, AI/ML initiatives, and integration of SAP, Salesforce, Dynamics, Power Platform & cloud-native tools
+🎯 **IT Transformation Leader | CRM, ERP, DevOps & Digital Platforms**  
+🔧 Driving enterprise change across APAC and global organizations using Salesforce, SAP, Power Platform, and CI/CD automation.
 
 ---
 
-## 🧠 What I Do
+## 🧠 What I Bring
 
-- Drive **digital transformation** across supply chain, CRM, and manufacturing ecosystems
-- Lead **DevOps automation** using GitHub Actions, PowerShell, Azure DevOps & CI/CD pipelines
-- Architect **CRM modernization** (Salesforce, MS Dynamics) with deep integration to SAP
-- Build **PowerApps solutions** for supply-demand planning, shop floor ops & user-driven workflows
-
----
-
-## 🛠️ Tech Toolbox
-
-**Languages & Scripting**: PowerShell · JavaScript · YAML · SQL · Markdown  
-**Platforms**: Azure DevOps · GitHub Actions · SAP S/4HANA · Salesforce · Power Platform  
-**CI/CD**: GitHub · Azure Pipelines · Bitbucket · Power Automate · Custom Deployment Scripts  
-**Other**: ServiceNow · Jira · Tableau · SAP CPI · Dynamics CRM
+- Deep experience leading **CRM & ERP transformation** (Salesforce, MS Dynamics, SAP)
+- Hands-on expertise in **DevOps, CI/CD pipelines**, and scripting (GitHub Actions, PowerShell)
+- Real-world delivery of **PowerApps solutions** integrated with enterprise backends like JDE and SAP
+- End-to-end leadership from **architecture to execution** across APAC, EMEA, and global programs
 
 ---
 
-## 🚀 Featured Projects
+## 🛠 Tech Stack
 
-🔹 [powerapps-jde-supplychain](https://github.com/rafiquli1966/powerapps-jde-supplychain):  
-Custom PowerApps app integrated with JDE backend for supply-demand planning (Caldic APAC)
+**CRM/ERP**: Salesforce · Microsoft Dynamics 365 · SAP S/4HANA  
+**Automation & DevOps**: GitHub Actions · Azure DevOps · PowerShell · YAML  
+**Platform**: PowerApps · Power Automate · Azure · SAP CPI  
+**Data & Tools**: SQL · Tableau · ServiceNow · JIRA
 
-🔹 [salesforce-sap-ci-cd-pipeline](https://github.com/rafiquli1966/salesforce-sap-ci-cd-pipeline):  
-CI/CD pipeline to deploy Salesforce changes with SAP backend validations and integrated approval gates
+---
 
-🔹 [wechat-eshop-crm-integration](https://github.com/rafiquli1966/wechat-eshop-crm-integration):  
-Integrated WeChat e-shop front end with Dynamics CRM for customer acquisition and journey automation (Tate & Lyle China)
+## 🚀 Key Projects
+
+🔹 **[PowerApps JDE Supply Chain](https://github.com/rafiquli1966/powerapps-jde-supplychain)**  
+Digitized supply-demand planning at Caldic APAC, replacing spreadsheets with integrated PowerApps + JDE.
+
+🔹 **[Salesforce-SAP CI/CD Pipeline](https://github.com/rafiquli1966/salesforce-sap-ci-cd-pipeline)**  
+Built DevOps pipeline to automate CRM delivery with SAP backend integration and approvals.
+
+🔹 **[WeChat eShop CRM Integration](https://github.com/rafiquli1966/wechat-eshop-crm-integration)**  
+Connected WeChat eCommerce with Dynamics CRM to enable real-time lead capture and personalized campaigns.
 
 ---
 
 ## 📈 GitHub Stats
 
-![Rafiqul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiquli1966&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafiquli1966&show_icons=true)
 
 ---
 
-## 🎓 Certs & Credentials
+## 📫 Let’s Connect
 
-- Salesforce Certified Administrator
-- Microsoft Power Platform Fundamentals
-- Azure DevOps & CI/CD Automation
-
----
-
-📫 **Let’s Connect**: [LinkedIn](https://www.linkedin.com/in/rafiqulislam1966/)
+- [LinkedIn](https://linkedin.com/in/rafiqulislam1966)
